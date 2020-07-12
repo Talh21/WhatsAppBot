@@ -1,0 +1,17 @@
+
+\.idea/inspectionProfiles/profiles_settings\.xml
+
+\.idea/inspectionProfiles/Project_Default\.xml
+
+\.idea/misc\.xml
+
+\.idea/modules\.xml
+
+\.idea/vcs\.xml
+
+\.idea/WhatsAppBot\.iml
+WhatsAppBot/__pycache__/WhatsAppBot.cpython-38.pyc
+Utilites/__pycache__/utilites.cpython-38.pyc
+Utilites/__pycache__/__init__.cpython-38.pyc
+Utilites/__pycache__/validation.cpython-38.pyc
+.idea/dictionaries/.xml

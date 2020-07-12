@@ -1,0 +1,4 @@
+openpyxl==3.0.3
+requests==2.23.0
+selenium==3.141.0
+urllib3==1.25.9
