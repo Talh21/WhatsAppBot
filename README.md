@@ -26,7 +26,7 @@ CHROME_PATH = 'D:\Program Files (x86)\chromedriver.exe'
 Please note that as a default, selenium does not save cookies and that every run is a "fresh" session. Thus, a QR code login is required in the beginnig of every session. However, there is a way to bypass this scenario, explained in steps 1-4 below:
 
 1. Open a new profile path within you Chrome browser
-2. get the path: 
+2. Get the path: 
 
     ![alt text](https://i.stack.imgur.com/BRDTM.png)
     ![alt text](https://i.stack.imgur.com/SWV0z.png)
