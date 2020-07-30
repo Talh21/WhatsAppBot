@@ -8,7 +8,7 @@ The "main message" can be taken manually or randomly picked from an .Xlsx file(u
 - **Choose contacts through file** - enter the contacts(exactly as they are saved in your phone) in the "Contacts" column.
 - **Enter contacts manually** - enter the contact name that you wish to send the message to, when you finish just type "Done".
 - **Main message** - can be picked manually or from a file(fill in the "messages" column). You can make a "database" of messages, so that for every run of the program a different random message will be chosen. 
-if you want to use the same message every time, just fill in the message only in the first cell. 
+If you want to use the same message every time, just fill in the message only in the first cell. 
 - **Opening message** - edit the opening message inside the code(line 52).
 
 ## Requirements
